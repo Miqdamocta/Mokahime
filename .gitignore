@@ -1,0 +1,30 @@
+# System files
+.bash_history
+.bashrc
+.profile
+.gitconfig
+.local/
+.cache/
+.config/
+.npm/
+.ollama/
+
+# Hermes & Agent files
+.hermes/
+
+# Dependency folders
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Configs & Logs
+.9router/
+resource_monitor_log.csv
+
+# Media & Temporary files
+*.mp3
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
